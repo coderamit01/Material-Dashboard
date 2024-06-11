@@ -1,5 +1,5 @@
 # React Admin Dashboarad
-
+![alt text](src/assets/dashboard.png)
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
